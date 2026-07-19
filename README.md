@@ -1,0 +1,1 @@
+Trying to get a HA integration from ChatGPT for controlling the Toshiba RAS-M10PKVPG-E indoor units for air conditioning via a Broadlink RM4-pro device. The *.txt-files contain the captures of corresponding commands with the original remote control recorded with actions in home assistant (file "broadlink_remote_348e89b16df5_codes" in the config.storage)
