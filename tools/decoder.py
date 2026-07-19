@@ -3,7 +3,7 @@ from pathlib import Path
 from broadlink import decode_base64, decode_ir_packet
 
 
-CAPTURE_DIR = Path("../captures")
+CAPTURE_DIR = Path(__file__).resolve().parent.parent / "captures"
 
 
 def main():
